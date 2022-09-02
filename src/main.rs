@@ -18,6 +18,4 @@ fn main() {
         6
     };
     println!("number = {}", number);
-
-    
 }
